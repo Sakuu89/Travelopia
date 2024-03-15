@@ -30,3 +30,11 @@ Open the index.html file in your preferred web browser.
 ### Laptop View
 
 ![https://github.com/Sakuu89/Travelopia/blob/main/image/laptopview.png?raw=true](https://github.com/Sakuu89/Travelopia/blob/main/image/laptopview.png?raw=true)
+
+
+## Tab View
+![https://github.com/Sakuu89/Travelopia/blob/main/image/tabview.png?raw=true](https://github.com/Sakuu89/Travelopia/blob/main/image/tabview.png?raw=true)
+
+
+## Mobile View
+![https://github.com/Sakuu89/Travelopia/blob/main/image/mobview.png?raw=true](https://github.com/Sakuu89/Travelopia/blob/main/image/mobview.png?raw=true)
