@@ -27,4 +27,6 @@ Clone the repository: git clone https://github.com/Sakuu89/Travelopia
 Open the index.html file in your preferred web browser.
 
 
+### Laptop View
 
+![https://github.com/Sakuu89/Travelopia/blob/main/image/laptopview.png?raw=true](https://github.com/Sakuu89/Travelopia/blob/main/image/laptopview.png?raw=true)
