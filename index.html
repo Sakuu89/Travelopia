@@ -1,0 +1,78 @@
+<!-- This is the Home Page of Travelopia -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Favicon Icon -->
+    <link rel="icon" type="image/x-icon" href="/assets/brand-icon.svg" />
+
+    <!-- Font Awesome CDN -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <!-- Links To All Style Files -->
+    <link rel="stylesheet" href="./index.css" />
+    <title>Travelopia | Discover The Unknown</title>
+  </head>
+  <body class="loaded">
+    <header>
+      <nav class="container">
+        <div>
+          <h3>
+            T<span style="color: rgba(42, 128, 130, 0.8)">ravelopia</span>
+            <i
+              class="fa-solid fa-umbrella-beach"
+              style="color: rgba(59, 174, 176, 0.8)"
+            ></i>
+          </h3>
+        </div>
+        <div class="nav-icon">
+          <i
+            class="fa-solid fa-bars"
+            style="color: rgba(59, 174, 176, 0.8); font-size: large"
+          ></i>
+        </div>
+      </nav>
+    </header>
+    <main>
+      <div id="overlay">
+        <div class="img-div">
+          <img
+            id="background-image"
+            src='./image/imgcouple.jpg'
+            alt="Travel Image"
+          />
+        </div>
+
+        <div class="text-bg-overlay"></div>
+
+        <div class="adventures">
+          <h1 id="title">VoyageVenture</h1>
+          <p class="para">Discover the Unknown</p>
+          <button class="click-button" onclick="showAlert()">Click here</button>
+          <div id="popup" class="popup">
+            <img src="./image/tick.png" alt="" />
+            <h2>Hello World !!</h2>
+            <button type="button" onclick="closePopup()">OK</button>
+          </div>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <div class="footer">
+        <p style="color: black">
+          All rights reserved <i class="fa-regular fa-copyright"></i> 2024
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>
+<script src="./index.js">
+ 
+</script>
