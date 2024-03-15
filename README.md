@@ -58,7 +58,10 @@ Open the index.html file in your preferred web browser.
 ## Tab View
 ![https://github.com/Sakuu89/Travelopia/blob/main/image/tabview.png?raw=true](https://github.com/Sakuu89/Travelopia/blob/main/image/tabview.png?raw=true)
 
+![https://github.com/Sakuu89/Travelopia/blob/main/image/hello%20world.png?raw=true](https://github.com/Sakuu89/Travelopia/blob/main/image/hello%20world.png?raw=true)
 
 ## Mobile View
 ![https://github.com/Sakuu89/Travelopia/blob/main/image/mobview.png?raw=true](https://github.com/Sakuu89/Travelopia/blob/main/image/mobview.png?raw=true)
+
+![https://github.com/Sakuu89/Travelopia/blob/main/image/mobile%20view.png](https://github.com/Sakuu89/Travelopia/blob/main/image/mobile%20view.png)
 
